@@ -1,15 +1,20 @@
-- 👋 Hi, I’m @parniagrawal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Parni Agrawal
+Connect with me on [LinkedIn](www.linkedin.com/in/parni-agrawal)<br/>
+👨‍💻  B.Tech CSE Big Data Student at SRM IST<br/>
+🌱 Co-founder of SakhiFi (Student led startup), an AI-driven financial assistant aimed at empowering rural women with access to financial literacy and microfinance.<br/>
+🧠 Passionate about AI, Machine Learning, and Data Science.<br/>
 
-<!---
-parniagrawal/parniagrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Skills:<br/>
+💻 Languages: Python, SQL<br/>
+⚙️ Frameworks & Tools: React, Next.js, Flask, TensorFlow, PyTorch, scikit-learn<br/>
+📊 Data Science & AI: Machine Learning, Deep Learning<br/>
+🔄 Version Control: Git, GitHub, VS Code<br/>
+
+🏆 My Achievements:<br/>
+🏅 Secured 3rd place at an ideathon at IIT Madras<br/>
+🥉 Secured 1st place at IEEE ideathon Concepto'25 at SRM University<br/>
+🎯 Received Special Mention at a national level hakcthon DayZero at SRM University<br/>
+🏅 Secured 3rd place at Poster presentation at 2nd international conference on data science and buisness systems at SRM University.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parni-agrawal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pa4904@srmist.edu.in) 
