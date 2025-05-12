@@ -15,6 +15,7 @@ Connect with me on [LinkedIn](www.linkedin.com/in/parni-agrawal)<br/>
 🥉 Secured 1st place at IEEE ideathon Concepto'25 at SRM University<br/>
 🎯 Received Special Mention at a national level hakcthon DayZero at SRM University<br/>
 🏅 Secured 3rd place at Poster presentation at 2nd international conference on data science and buisness systems at SRM University.<br/>
+🥉 Secured 5th position at a 24 hr hackathon SRM intellihack at SRM University<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/parni-agrawal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pa4904@srmist.edu.in) 
