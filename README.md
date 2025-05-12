@@ -1,5 +1,5 @@
 # Hi, I'm Parni Agrawal
-Connect with me on [LinkedIn](www.linkedin.com/in/parni-agrawal)<br/>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/parni-agrawal)<br/>
 👨‍💻  B.Tech CSE Big Data Student at SRM IST<br/>
 🌱 Co-founder of SakhiFi (Student led startup), an AI-driven financial assistant aimed at empowering rural women with access to financial literacy and microfinance.<br/>
 🧠 Passionate about AI, Machine Learning, and Data Science.<br/>
